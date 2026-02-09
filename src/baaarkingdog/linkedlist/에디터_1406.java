@@ -49,6 +49,6 @@ class Main {
         for (int i = 0; i < editor.size(); i++) {
             sb.append(editor.get(i));
         }
-        System.out.println(sb);
+        System.out.println(sb); // 출력
     }
 }
